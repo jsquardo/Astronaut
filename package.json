@@ -1,0 +1,24 @@
+{
+	"name": "astronaut",
+	"publisher": "JohnnySquardo",
+	"version": "0.0.1",
+	"author": {
+		"name": "Johnny Squardo"
+	},
+	"repository": {
+		"url": "https://https://github.com/jsquardo/Astronaut",
+		"type": "git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Astronaut",
+				"uiTheme": "vs-dark",
+				"path": "./themes/astronaut.json"
+			}
+		]
+	}
+}
